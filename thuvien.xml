@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<thuvien>
+    <sach>
+        <title>Đắc Nhân Tâm</title>
+        <author>Dale Carnegie</author>
+        <year>1936</year>
+        <genre>Kỹ năng sống</genre>
+    </sach>
+    <sach>
+        <title>Tuổi Trẻ Đáng Giá Bao Nhiêu</title>
+        <author>Rosie Nguyễn</author>
+        <year>2016</year>
+        <genre>Truyền cảm hứng</genre>
+    </sach>
+    <sach>
+        <title>Harry Potter và Hòn Đá Phù Thủy</title>
+        <author>J.K. Rowling</author>
+        <year>1997</year>
+        <genre>Giả tưởng</genre>
+    </sach>
+</thuvien>

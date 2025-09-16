@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class>
+    <student>
+        <name>
+            Lại Trần Thế Vinh
+        </name>
+        <id>123456</id>
+        <subject>
+            <subject_name>
+                Toán
+            </subject_name>
+            <score>
+                4.0
+            </score>
+        </subject>
+    </student>
+    <student>
+        <name>
+            Nguyễn Văn A
+        </name>
+        <id>654321</id>
+        <subject>
+            <subject_name>
+                Lý
+            </subject_name>
+            <score>
+                3.5
+            </score>
+        </subject>
+    </student>
+    <student>
+        <name>
+            Trần Thị B
+        </name>
+        <id>112233</id>
+        <subject>
+            <subject_name>
+                Hóa
+            </subject_name>
+            <score>
+                3.8
+            </score>
+        </subject>
+    </student>
+</class>
