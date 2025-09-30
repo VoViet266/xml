@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <!DOCTYPE store SYSTEM "donhang.dtd"> -->
+
+<store xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../../../Buoi_03/bai_2.3/donhang.xsd">
+    <order id="O001">
+
+        <product id="P001">
+            <name>Kem tron Thai Lan</name>
+            <quantity>10</quantity>
+        </product>
+        <product id="P002">
+            <name>Kem chong nang</name>
+            <quantity>15</quantity>
+        </product>
+
+    </order>
+
+    <order id="O002">
+
+        <product id="P003">
+            <name>Mit say</name>
+            <quantity>25</quantity>
+        </product>
+        <product id="P004">
+            <name>Banh Oreo</name>
+            <quantity>20</quantity>
+        </product>
+
+    </order>
+</store>
