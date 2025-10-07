@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DSSV xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="danhsachsinhvien.xsd">
+    <DS_KHOA>
+        <KHOA>
+            <MA>cntt</MA>
+            <TEN>congnghethongtin</TEN>
+        </KHOA>
+        <KHOA>
+            <MA>ddt</MA>
+            <TEN>diendientu</TEN>
+        </KHOA>
+        <KHOA>
+            <MA>ck</MA>
+            <TEN>cokhi</TEN>
+        </KHOA>
+        <KHOA>
+            <MA>khxh</MA>
+            <TEN>khoahocxahoi</TEN>
+        </KHOA>
+    </DS_KHOA>
+
+    <DS_LOP>
+        <LOP>
+            <MA>ktpm22</MA>
+            <TEN>Kỹ thuật phần mềm 2022</TEN>
+            <MAKHOA>cntt</MAKHOA>
+        </LOP>
+        <LOP>
+            <MA>ktck24</MA>
+            <TEN>Kỹ thuật cơ khí 2024</TEN>
+            <MAKHOA>ck</MAKHOA>
+        </LOP>
+        <LOP>
+            <MA>ktddt25</MA>
+            <TEN>Điện - Điện tử 2025</TEN>
+            <MAKHOA>ddt</MAKHOA>
+        </LOP>
+    </DS_LOP>
+
+    <DS_SINHVIEN>
+        <SINHVIEN>
+            <MSSV>SV001</MSSV>
+            <HOTEN>Lại Trần Thế Vinh</HOTEN>
+            <EMAIL>tvinh9130@gmail.com</EMAIL>
+            <DIACHI>Vĩnh Long</DIACHI>
+            <SDT>0328573746</SDT>
+            <MALOP>ktpm22</MALOP>
+        </SINHVIEN>
+        <SINHVIEN>
+            <MSSV>SV002</MSSV>
+            <HOTEN>Võ Quốc Việt</HOTEN>
+            <EMAIL>vquocviet@gmail.com</EMAIL>
+            <DIACHI>Cần Thơ</DIACHI>
+            <SDT>0987654321</SDT>
+            <MALOP>ktpm22</MALOP>
+        </SINHVIEN>
+    </DS_SINHVIEN>
+</DSSV>
